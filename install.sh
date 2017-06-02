@@ -59,17 +59,24 @@ pkgs=(
     htop
     iftop
     iotop
+    iptraf
+    jq
     less
+    lynx
     mc
     mediainfo
+    nethogs
     node
     python
     progress
     pv
+    rsync
     sed
     time
+    tree
     unzip
     wget
+    youtube-dl
     zile
 )
 for pkg in ${pkgs[*]}; do
