@@ -1,0 +1,4 @@
+# http://store.qnapclub.eu/store.php
+Entware-ng
+FileBot
+QJDK8 1.8

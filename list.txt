@@ -1,0 +1,15 @@
+Cloud Backup Sync
+CodexPack
+Connect to Cloud Drive
+Connect to Q'center
+Container Station
+HelpDesk
+Hybrid Backup Sync
+Network Virtual Switch
+Plex Media Server
+Python 2.7
+Q'center
+Q'center Agent
+QNAP Diagnostic tool
+QTS SSL Certificate
+Resource Monitor
